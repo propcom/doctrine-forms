@@ -1,0 +1,8 @@
+{
+  "name": "propcom/doctrine-forms",
+  "autoload": {
+    "psr-4" : {
+      "Propcom\\DoctrineForms\\" : "src"
+    }
+  }
+}
